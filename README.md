@@ -1,7 +1,7 @@
 ## Introduction
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer+and+Developer" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00E9F7&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer+%26+Game+Developer)](https://git.io/typing-svg" /></a>
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/DominickGirard">Dominick Girard</a></h3>
