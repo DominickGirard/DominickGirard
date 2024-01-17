@@ -41,9 +41,9 @@
 
 ## What I'm Doing
 
-- 🔭 Working on ChatCool (Bot)
-- 🌱 Learning Node.js & more
-- 📫 How to contact me: DominickMGirard@gmail.com 
+- 🔭 Working on a Privately run game development studio
+- 🌱 Learning artistic design skills, Working effectively in a team, Communicating clearly and concisely, Adapting to feedback and iteration
+- 📫 Contact Me:  DominickmGirard@gmail.com 
 
 ## Languages and Tools
 
