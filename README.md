@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/DominickGirard">Dominick Girard</a></h3>
-<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<h5 align="center">Below are a few links you can visit and some stats to look at too (They are not enabled at the moment)</h5>
 
 <p align="center">
   <a href=""><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
