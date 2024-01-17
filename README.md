@@ -42,7 +42,7 @@
 ## What I'm Doing
 
 - 🔭 Working on a Privately run game development studio
-- 🌱 Learning artistic design skills, Working effectively in a team, Communicating clearly and concisely, Adapting to feedback and iteration
+- 🌱 Learning artistic design skills, Working effectively in a team, Communicating clearly and concisely, Adapting to feedback
 - 📫 Contact Me:  DominickmGirard@gmail.com 
 
 ## Languages and Tools
