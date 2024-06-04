@@ -43,7 +43,7 @@
 
 - 🔭 Working on a privately run game development studio
 - 🌱 Learning artistic design skills, working effectively in a team, communicating clearly and concisely, adapting to feedback
-- 📫 Contact Me: DominickmGirard@gmail.com 
+- 📫 Contact Me: DominickGirard112@gmail.com 
 
 ## Languages and Tools
 
