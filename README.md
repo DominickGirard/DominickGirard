@@ -68,5 +68,6 @@
     <a href="https://github.com/DominickGirard/CodeCaveDll"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DominickGirard&repo=CodeCaveDll&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/DominickGirard/InternalMemoryAdjuster"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DominickGirard&repo=InternalMemoryAdjuster&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DominickGirard/DFA-for-String-Recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DominickGirard&repo=DFA-for-String-Recognition&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/DominickGirard/Theoretical-Foundations"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DominickGirard&repo=Theoretical-Foundations&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
